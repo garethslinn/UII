@@ -129,7 +129,7 @@ argos.modules.ProductCarousel = (function($){
 				that.moveLeft();
 				console.log(that.config.screensCounter,that.calcTotalScreens());
 			} else {
-				console.log('no response')
+				console.log('no response');
 			}
 
 		});
